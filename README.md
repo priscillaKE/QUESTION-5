@@ -1,4 +1,4 @@
-# QN5-VUE
+# QUESTION-5
 
 This project contains solutions for Question Five.
 
